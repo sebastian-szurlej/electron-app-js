@@ -44,4 +44,4 @@ npm run lint
 
 new dirs: src-electron
 new files: electron-builder.json5
-files: .eslintrc.cjs (node: true), package.json, package-lock.json, vite.config.js
+files: package.json, package-lock.json, vite.config.js
