@@ -1,5 +1,5 @@
 <template>
-  <v-footer app border height="48">
+  <v-footer app :border="true" height="48">
     <div>Copyright &copy; Company</div>
   </v-footer>
 </template>
